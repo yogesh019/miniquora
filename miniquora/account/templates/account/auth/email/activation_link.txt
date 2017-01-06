@@ -1,0 +1,7 @@
+Hi {{ u.username }},
+
+click on the link to activate your account
+
+http://127.0.0.1:8000{%url 'activate-account' id=u.id otp=otp %}
+
+Thanks

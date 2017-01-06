@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"document",
+				"documentElement"
+			],
+			[
+				"target",
+				"target_id"
+			],
+			[
+				"bo",
+				"boundingRec"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"c",
+				"currentState"
+			],
+			[
+				"ava",
+				"availableActions"
+			],
+			[
+				"av",
+				"availableActions"
+			],
+			[
+				"mi",
+				"minimaxValue"
+			],
+			[
+				"mini",
+				"minimaxVal"
+			],
+			[
+				"ap",
+				"applyTo"
+			],
+			[
+				"avail",
+				"available"
+			],
+			[
+				"avai",
+				"available"
+			],
+			[
+				"next",
+				"nextStateScore"
+			],
+			[
+				"state",
+				"stateScore"
+			],
+			[
+				"stat",
+				"stateScore"
+			],
+			[
+				"minima",
+				"minimaxValue"
+			],
+			[
+				"availa",
+				"availableNextStates"
+			],
+			[
+				"available",
+				"availableNextStates"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"paddi",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/yogesh/Desktop/myquora/account/templates/account/auth/login.html",
+			"settings":
+			{
+				"buffer_size": 1072,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yogesh/Desktop/myquora/question/templates/question/create_form.html",
+		"/home/yogesh/Desktop/myquora/question/templates/question/index.html",
+		"/home/yogesh/Desktop/myquora/account/models.py",
+		"/home/yogesh/Desktop/myquora/account/admin.py",
+		"/home/yogesh/Desktop/myquora/question/models.py",
+		"/home/yogesh/Desktop/PythonScripts/geeksforgeeks_pdf.py",
+		"/home/yogesh/Desktop/python-mailer-master/pymailer.py",
+		"/home/yogesh/Desktop/miniquora/miniquora/question/templates/question/index.html",
+		"/home/yogesh/Desktop/miniquora/miniquora/question/templates/question/create_form.html",
+		"/home/yogesh/Desktop/miniquora/miniquora/templates/common/base2.html",
+		"/home/yogesh/Desktop/miniquora/miniquora/question/views.py",
+		"/home/yogesh/Desktop/my2048/base.css",
+		"/home/yogesh/Desktop/myfinalinstagram-master/account/views.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/account/urls.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/account/models.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/account/forms.py",
+		"/home/yogesh/Desktop/instagram/account/models.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/account/admin.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/account/__init__.py",
+		"/home/yogesh/Desktop/instagram/photos/forms.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/forms.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/urls.py",
+		"/home/yogesh/Desktop/instagram/photos/urls.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/views.py",
+		"/home/yogesh/Desktop/instagram/photos/views.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/models.py",
+		"/home/yogesh/Desktop/instagram/photos/models.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/tests.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/__init__.py",
+		"/home/yogesh/Desktop/instagram/instagram/wsgi.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/photos/admin.py",
+		"/home/yogesh/Desktop/instagram/instagram/__init__.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/myfinalinstagram/wsgi.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/myfinalinstagram/__init__.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/myfinalinstagram/settings.py",
+		"/home/yogesh/Desktop/instagram/instagram/settings.py",
+		"/home/yogesh/Desktop/instagram/instagram/urls.py",
+		"/home/yogesh/Desktop/myfinalinstagram-master/myfinalinstagram/urls.py",
+		"/home/yogesh/Desktop/miniquora/miniquora/question/models.py",
+		"/home/yogesh/Desktop/Miniquora/miniquora/account/models.py",
+		"/home/yogesh/Desktop/Miniquora/miniquora/account/admin.py",
+		"/home/yogesh/Desktop/Miniquora/miniquora/question/models.py",
+		"/home/yogesh/Desktop/miniquora/.gitignore.py",
+		"/usr/local/lib/python3.4/dist-packages/django/db/models/base.py",
+		"/usr/local/lib/python3.4/dist-packages/django/contrib/auth/migrations/0001_initial.py",
+		"/usr/local/lib/python3.4/dist-packages/django/contrib/auth/admin.py",
+		"/usr/local/lib/python3.4/dist-packages/django/contrib/admin/views/main.py",
+		"/home/yogesh/Desktop/java/java/src/applet/program1.html",
+		"/home/yogesh/Downloads/Last Two Lectures/MinPriorityQueue.h",
+		"/home/yogesh/Desktop/PythonScripts/downloadImages.py",
+		"/home/yogesh/Desktop/amazon.py",
+		"/home/yogesh/Desktop/python/downloadImages.py",
+		"/home/yogesh/Downloads/automate_online-materials/ticTacToe.py",
+		"/home/yogesh/.cache/.fr-bcbEVQ/automate_online-materials/birthdays.py",
+		"/home/yogesh/.cache/.fr-xe5w1V/automate_online-materials/stopwatch.py",
+		"/home/yogesh/Desktop/connect.py",
+		"/home/yogesh/Desktop/JSPrograms/CatchMeIfYouCan/index.html",
+		"/home/yogesh/Desktop/JSPrograms/CatchMeIfYouCan/catchMeIfYouCan.js",
+		"/home/yogesh/Desktop/JSPrograms/CatchMeIfYouCan/cursorDirection.js",
+		"/home/yogesh/Desktop/.newfile.txt",
+		"/home/yogesh/Desktop/JSPrograms/MoveDivGame/Move.js",
+		"/home/yogesh/Desktop/JSPrograms/timer/style.css",
+		"/home/yogesh/Desktop/JSPrograms/timer/index.html",
+		"/home/yogesh/Desktop/AboutSudo.txt",
+		"/home/yogesh/Downloads/L10 (1)/L10/MapAndAjax/base.js",
+		"/home/yogesh/Downloads/L10 (1)/L10/MapAndAjax/index.html",
+		"/home/yogesh/Desktop/JSPrograms/index.html",
+		"/home/yogesh/Desktop/L9/index.html",
+		"/home/yogesh/.vimrc",
+		"/home/yogesh/Desktop/JSPrograms/timer/timer.js",
+		"/home/yogesh/Desktop/javascript_programs/timer/timer2.js",
+		"/home/yogesh/Desktop/javascript_programs/timer/index.html",
+		"/home/yogesh/Desktop/javascript_programs/timer/Timer.js",
+		"/home/yogesh/Desktop/TicTacToeMiniMax/css/style.css",
+		"/home/yogesh/Desktop/current/SmoothScroller.js",
+		"/home/yogesh/Desktop/L8/L8/smoothScroll.js",
+		"/home/yogesh/Desktop/current/index.html",
+		"/home/yogesh/Desktop/current/css/base.css",
+		"/home/yogesh/Desktop/JSPrograms/SmoothScroller.js",
+		"/home/yogesh/Desktop/JSPrograms/MoveDivGame/index.html",
+		"/home/yogesh/Desktop/javascript_programs/MoveDivOnArrowKeys/MoveDiv.js",
+		"/home/yogesh/Desktop/JSPrograms/scroll_toTop/scrollToTop.js",
+		"/home/yogesh/Desktop/JSPrograms/scroll_toTop/index.html",
+		"/home/yogesh/Desktop/javascript_programs/scroll_toTop/scrollToTopGaussian.js",
+		"/home/yogesh/Desktop/javascript_programs/scroll_toTop/scrollToTop.js",
+		"/home/yogesh/Desktop/TicTacToe_Minimax_Strategy/js/ai.js",
+		"/home/yogesh/Desktop/TicTacToe_Minimax_Strategy/css/style.css",
+		"/home/yogesh/Desktop/TicTacToe_Minimax_Strategy/js/ui.js",
+		"/home/yogesh/Desktop/TicTacToe_Minimax_Strategy/js/game.js",
+		"/home/yogesh/Desktop/TicTacToe_Minimax_Strategy/index.html",
+		"/home/yogesh/Desktop/TicTacToe_Minimax_Strategy/js/control.js",
+		"/home/yogesh/Desktop/BlackTemplate/css/base.css",
+		"/home/yogesh/Desktop/BlackTemplate/index.html",
+		"/home/yogesh/Desktop/2048/my2048.js",
+		"/var/www/html/my2048/index.html",
+		"/home/yogesh/Desktop/abc/index.html",
+		"/var/www/html/my2048/my2048.js",
+		"/home/yogesh/Desktop/Animated-2048-master/index.html",
+		"/home/yogesh/Desktop/Animated-2048-master/2048.js",
+		"/home/yogesh/Desktop/my2048/index.html",
+		"/home/yogesh/Desktop/my2048/my2048.js",
+		"/home/yogesh/Desktop/GoldenTemplate/index.html",
+		"/home/yogesh/Desktop/GoldenTemplate/css/base.css",
+		"/home/yogesh/Desktop/new/Black-Template/index.html",
+		"/home/yogesh/Desktop/new/Black-Template/css/base.css",
+		"/home/yogesh/Desktop/accordion/base.css",
+		"/home/yogesh/Desktop/accordion/index.html",
+		"/home/yogesh/Desktop/Animated-2048-master/2048_m.css",
+		"/home/yogesh/Desktop/L4 (1)/L4/css/base.css",
+		"/media/yogesh/New Volume1/coding blocks Elixir/One Page Resume/resume.css",
+		"/media/yogesh/New Volume1/coding blocks Elixir/One Page Resume/resume.html",
+		"/home/yogesh/Desktop/background/index.html",
+		"/media/yogesh/New Volume/coding blocks Elixir/One Page Resume/resume.html",
+		"/media/yogesh/New Volume/coding blocks Elixir/One Page Resume/resume.css",
+		"/home/yogesh/Desktop/L8/L8/css/base.css",
+		"/home/yogesh/Desktop/L4 (1)/L4/index.html",
+		"/home/yogesh/Desktop/templates/css/style.css",
+		"/home/yogesh/Desktop/templates/html/index.html",
+		"/home/yogesh/Desktop/L7/index.html",
+		"/home/yogesh/Desktop/Elixir_Practise/style.css",
+		"/home/yogesh/Desktop/Elixir_Practise/redirect.html",
+		"/home/yogesh/Desktop/Elixir_Practise/index.html",
+		"/home/yogesh/Desktop/Elixir_Practise/base.css",
+		"/home/yogesh/Desktop/Elixir_Practise/randomColorChange.js",
+		"/home/yogesh/Desktop/Elixir_Practise/phpscript.php",
+		"/home/yogesh/.cache/.fr-PQt1we/L4/index.html",
+		"/home/yogesh/.cache/.fr-kvSodt/L4/index.html",
+		"/home/yogesh/.cache/.fr-7mQUVh/L4/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"\"/>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/yogesh/Desktop/myquora/account/templates/account/auth/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								849,
+								849
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

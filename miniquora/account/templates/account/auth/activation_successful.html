@@ -1,0 +1,11 @@
+{% extends 'common/base.html' %}
+{% load staticfiles %}
+{% block title %}Activated :){% endblock %}
+{% block extrahead %}
+    <link href="{% static 'account/css/style.css'%}" rel="stylesheet">
+{% endblock %}
+{% block content %}
+Hey, {{ u.username }}.Your account has been activated!
+<a href="{% url 'login' %}"> Login </a>to continue.
+
+{% endblock %}

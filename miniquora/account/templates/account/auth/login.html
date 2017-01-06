@@ -1,0 +1,36 @@
+{% extends 'common/base.html' %}
+{% load staticfiles %}
+{% block page_title %}Login{% endblock %}
+{% load  material_form %}
+{% block extrahead %}
+    <link href="{% static 'account/css/style.css'%}" rel="stylesheet">
+{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="col s12 m8 l6 offset-m2 offset-l3">
+        <div class="card-panel">
+            <h4>Login</h4>
+            <form action="{% url 'login' %}"  method='POST' autocomplete="off">
+                {% csrf_token %}
+                {% form form=f %}{% endform %}
+                <div class="row">
+                    <div class="col s12">
+                        <button type="submit" id="login-btn" name="login" class="btn waves-effect waves-light left">Login</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s12">
+                        <a href="{% url 'forgot-password' %}">Forgot Password?</a>
+                    </div>
+
+                    <div class="col s12">
+                        <a href="{% url 'signup' %}">Signup?</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+</form>
+{% endblock %}

@@ -8,4 +8,6 @@ class Question(models.Model):
     created_by=models.ForeignKey(MyUser,related_name='questions_created')
     upvoted_by=models.ManyToManyField(MyUser,related_name="questions_upvoted",blank=True)
 
+    def __str__(self):
+        return self.title
 # Create your models here.

@@ -1,0 +1,10 @@
+{% extends 'common/base.html' %}
+{% load staticfiles %}
+{% block extrahead %}
+<link href="{% static 'account/css/style.css'%}" rel="stylesheet">
+{% endblock %}
+{% block title %}Email Sent{% endblock %}
+{% block content %}
+Hey, {{ u.username }}. We have sent you instructions to reset password on {{ u.email }}.
+
+{% endblock %}

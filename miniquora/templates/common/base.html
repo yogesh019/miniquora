@@ -1,0 +1,22 @@
+{% load staticfiles %}
+<html>
+    <head>
+        <title>{% block page_title %}Mini Quora {% endblock %}</title>
+        <link href="{% static 'question/css/base.css'%}" rel="stylesheet">
+        {% include 'material/includes/material_css.html' %}
+        {% block extrahead %}{% endblock %}
+        </head>
+        <body>
+            <header>
+                {% block navbar %}
+                {% endblock %}
+            </header>
+
+            <main class="container" >
+                {% block content %} {% endblock %}
+            </main>
+            <script src="{% static 'common/js/jquery-3.1.0.min.js' %}"></script>
+            {% include 'material/includes/material_js.html' %}
+            {% block scripts %} {% endblock %}
+        </body>
+</html> 

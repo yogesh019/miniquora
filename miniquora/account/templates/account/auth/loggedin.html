@@ -1,0 +1,10 @@
+{% extends 'common/base.html' %}
+{% block page_title %}Welcome{% endblock %}
+{% block navbar %}
+
+{% endblock %}
+
+{% block content %}
+<h1>Welcome, {{ user.username }} </h1>
+<a href="{% url 'logout' %}">Logout</a>
+{% endblock %}

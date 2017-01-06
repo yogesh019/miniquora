@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+    {% load staticfiles %}
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>{% block title %}Coding Blocks{% endblock %}</title>
+        <link rel="stylesheet" href="{% static 'font-awesome/css/font-awesome.min.css' %}">
+        <link rel="stylesheet" href="{% static 'material/css/materialize.css' %}">
+        <link rel="stylesheet" href="{% static 'material/css/forms.css' %}">
+        <link rel="stylesheet" href="{% static 'base/css/base.css' %}">
+        {% block extrahead %}{% endblock %}
+    </head>
+    <body>
+        <header>
+            {% block navbar %}
+            <div class="navbar-fixed">
+                <nav>
+                    <div class="container nav-wrapper">
+                        <a href="http://www.codingblocks.com" class="brand-logo">
+                            <img src="{% static 'base/images/logo.png' %}">
+                        </a>
+                        {% if user.is_authenticated %}
+                        {% include "nav/nav.html" %}
+                        {% endif  %}
+                    </div>
+                </nav>
+            </div>
+            {% endblock %}
+        </header>
+        <main>
+            <div class="container">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </main>
+        <footer class="page-footer">
+            <div class="footer-copyright">
+                <div class="container">
+                    <span>
+                        &copy;{% now 'Y' %}Coding Blocks Pvt Ltd
+                    </span>
+                    <span class="cb-footer-icons">
+                        <a class="grey-text text-lighten-4" href="mailto:info@codingblocks.com"><i class="fa fa-envelope-square"></i></a>
+                        <a class="grey-text text-lighten-4" href="https://plus.google.com/+CodingBlocks"><i class="fa fa-google-plus-square"></i></a>
+                        <a class="grey-text text-lighten-4" href="http://www.facebook.com/codingblocksindia"><i class="fa fa-facebook-square"></i></a>
+                    </span>
+                </div>
+            </div>
+        </footer>
+        <script type="text/javascript" src="{% static 'jquery/js/jquery-2.1.4.min.js' %}"></script>
+        <script type="text/javascript" src="{% static 'material/js/bin/materialize.min.js' %}"></script>
+        <script type="text/javascript" src="{% static '/common/js/AjaxFormHelper.js' %}"></script>
+        <script type="text/javascript" src="{% static 'base/js/init.js' %}"></script>
+        {% block scripts %}
+        {% endblock %}
+    </body>
+</html>
+
+
+                        
+
+
+        
+
+
